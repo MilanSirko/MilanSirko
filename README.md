@@ -11,10 +11,11 @@ I work mainly with Python — building AI-powered tools, agentic systems, and in
 - **MCP:** building both MCP clients and servers (`StdioServerParameters`, `ClientSession`, multi-server orchestration)
 - **Tools:** VS Code, Git/GitHub, local LLMs via Ollama
 
-## 🚀 Featured project
+## 🚀 Featured projects
 
 **[Customizable AI chat with MCP servers](https://github.com/MilanSirko/Customizable-AI-chat-with-MCP-servers)**
 A configurable, terminal-based AI chat client that connects to any OpenAI-compatible model and gives it live tool access through multiple MCP servers at once.
+**[Web Research Agent](https://github.com/MilanSirko/Web-Research-Agent)**
 
 ## 🌱 Currently learning
 
