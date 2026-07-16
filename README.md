@@ -2,11 +2,11 @@
 
 I'm a 16-year-old student from Hungary, focused on AI development as my path forward.
 
-I work mainly with Python — building AI-powered tools, agentic systems, and integrations using the **Model Context Protocol (MCP)**. I'm especially interested in how LLMs can be connected to real tools and live data, not just chat.
+I work mainly with Python, building AI-powered tools, agentic systems, and integrations using the **Model Context Protocol (MCP)**. I'm especially interested in how LLMs can be connected to real tools and live data, not just chat.
 
 ## 🔧 What I'm working with
 
-- **Languages:** Python
+- **Languages:** Python, SQL
 - **AI/LLM:** OpenAI SDK, OpenRouter, function calling, agentic loops
 - **MCP:** building both MCP clients and servers (`StdioServerParameters`, `ClientSession`, multi-server orchestration)
 - **Tools:** VS Code, Git/GitHub, local LLMs via Ollama
