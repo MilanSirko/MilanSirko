@@ -7,7 +7,7 @@ I work mainly with Python, building AI-powered tools, agentic systems, and integ
 ## 🔧 What I'm working with
 
 - **Languages:** Python, SQL
-- **AI/LLM:** OpenAI SDK, OpenRouter, function calling, agentic loops
+- **AI/LLM:** OpenAI SDK, OpenRouter, function calling, agentic loops, Langchain
 - **MCP:** building both MCP clients and servers (`StdioServerParameters`, `ClientSession`, multi-server orchestration)
 - **Tools:** VS Code, Git/GitHub, local LLMs via Ollama
 
