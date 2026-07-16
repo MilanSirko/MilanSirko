@@ -15,8 +15,10 @@ I work mainly with Python, building AI-powered tools, agentic systems, and integ
 
 **[Customizable AI chat with MCP servers](https://github.com/MilanSirko/Customizable-AI-chat-with-MCP-servers)**
 A configurable, terminal-based AI chat client that connects to any OpenAI-compatible model and gives it live tool access through multiple MCP servers at once.
+- **[RAG Agent with FastAPI](https://github.com/MilanSirko/RAG-Agent-with-FastAPI/tree/main)** (New)
 - **[Web Research Agent](https://github.com/MilanSirko/Web-Research-Agent)** (New)
 - **[Text Summarizer Agent with FastAPI](https://github.com/MilanSirko/Text-Summarizer-Agent-with-FastAPI)** (New)
+
 
 ## 🌱 Currently learning
 
