@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
-I'm a 16-year-old student from Hungary, focused on AI development as my path forward.
+I'm a 17-year-old student from Hungary, focused on AI development as my path forward.
 
 I work mainly with Python, building AI-powered tools, agentic systems, and integrations using the **Model Context Protocol (MCP)**. I'm especially interested in how LLMs can be connected to real tools and live data, not just chat.
 
